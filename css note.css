@@ -1,0 +1,301 @@
+ 
+animation-fill-modeSpecifies a style for the element when the animation is not playing (before it starts, after it ends, or both)
+animation-iteration-countSpecifies the number of times an animation should be played
+animation-nameSpecifies a name for the @keyframes animation
+animation-play-stateSpecifies whether the animation is running or paused
+animation-timing-functionSpecifies the speed curve of an animation
+aspect-ratioSpecifies preferred aspect ratio of an element
+backdrop-filterDefines a graphical effect to the area behind an element
+backface-visibilityDefines whether or not the back face of an element should be visible when facing the user
+backgroundA shorthand property for all the background-* properties
+background-attachmentSets whether a background image scrolls with the rest of the page, or is fixed
+background-blend-modeSpecifies the blending mode of each background layer (color/image)
+background-clipDefines how far the background (color or image) should extend within an element
+background-colorSpecifies the background color of an element
+background-imageSpecifies one or more background images for an element
+background-originSpecifies the origin position of a background image
+background-positionSpecifies the position of a background image
+background-position-xSpecifies the position of a background image on x-axis
+background-position-ySpecifies the position of a background image on y-axis
+background-repeatSets if/how a background image will be repeated
+background-sizeSpecifies the size of the background images
+block-sizeSpecifies the size of an element in block direction
+borderA shorthand property for border-width, border-style and border-color
+border-blockA shorthand property for border-block-width, border-block-style and border-block-color
+border-block-colorSets the color of the borders at start and end in the block direction
+border-block-end-colorSets the color of the border at the end in the block direction
+border-block-end-styleSets the style of the border at the end in the block direction
+border-block-end-widthSets the width of the border at the end in the block direction
+border-block-start-colorSets the color of the border at the start in the block direction
+border-block-start-styleSets the style of the border at the start in the block direction
+border-block-start-widthSets the width of the border at the start in the block direction
+border-block-styleSets the style of the borders at start and end in the block direction
+border-block-widthSets the width of the borders at start and end in the block direction
+border-bottomA shorthand property for border-bottom-width, border-bottom-style and border-bottom-color
+border-bottom-colorSets the color of the bottom border
+border-bottom-left-radiusDefines the radius of the border of the bottom-left corner
+border-bottom-right-radiusDefines the radius of the border of the bottom-right corner
+border-bottom-styleSets the style of the bottom border
+border-bottom-widthSets the width of the bottom border
+border-collapseSets whether table borders should collapse into a single border or be separated
+border-colorSets the color of the four borders
+border-imageA shorthand property for all the border-image-* properties
+border-image-outsetSpecifies the amount by which the border image area extends beyond the border box
+border-image-repeatSpecifies whether the border image should be repeated, rounded or stretched
+border-image-sliceSpecifies how to slice the border image
+border-image-sourceSpecifies the path to the image to be used as a border
+border-image-widthSpecifies the width of the border image
+border-inlineA shorthand property for border-inline-width, border-inline-style and border-inline-color
+border-inline-colorSets the color of the borders at start and end in the inline direction
+border-inline-end-colorSets the color of the border at the end in the inline direction
+border-inline-end-styleSets the style of the border at the end in the inline direction
+border-inline-end-widthSets the width of the border at the end in the inline direction
+border-inline-start-colorSets the color of the border at the start in the inline direction
+border-inline-start-styleSets the style of the border at the start in the inline direction
+border-inline-start-widthSets the width of the border at the start in the inline direction
+border-inline-styleSets the style of the borders at start and end in the inline direction
+border-inline-widthSets the width of the borders at start and end in the inline direction
+border-leftA shorthand property for all the border-left-* properties
+border-left-colorSets the color of the left border
+border-left-styleSets the style of the left border
+border-left-widthSets the width of the left border
+border-radiusA shorthand property for the four border-*-radius properties
+border-rightA shorthand property for all the border-right-* properties
+border-right-colorSets the color of the right border
+border-right-styleSets the style of the right border
+border-right-widthSets the width of the right border
+border-spacingSets the distance between the borders of adjacent cells
+border-styleSets the style of the four borders
+border-topA shorthand property for border-top-width, border-top-style and border-top-color
+border-top-colorSets the color of the top border
+border-top-left-radiusDefines the radius of the border of the top-left corner
+border-top-right-radiusDefines the radius of the border of the top-right corner
+border-top-styleSets the style of the top border
+border-top-widthSets the width of the top border
+border-widthSets the width of the four borders
+bottomSets the elements position, from the bottom of its parent element
+box-decoration-breakSets the behavior of the background and border of an element at page-break, or, for in-line elements, at line-break.
+box-reflectThe box-reflect property is used to create a reflection of an element.
+box-shadowAttaches one or more shadows to an element
+box-sizingDefines how the width and height of an element are calculated: should they include padding and borders, or not
+break-afterSpecifies whether or not a page-, column-, or region-break should occur after the specified element
+break-beforeSpecifies whether or not a page-, column-, or region-break should occur before the specified element
+break-insideSpecifies whether or not a page-, column-, or region-break should occur inside the specified element
+caption-sideSpecifies the placement of a table caption
+colorSets the color of text
+column-countSpecifies the number of columns an element should be divided into
+column-fillSpecifies how to fill columns, balanced or not
+column-gapSpecifies the gap between the columns
+column-ruleA shorthand property for all the column-rule-* properties
+column-rule-colorSpecifies the color of the rule between columns
+column-rule-styleSpecifies the style of the rule between columns
+column-rule-widthSpecifies the width of the rule between columns
+column-spanSpecifies how many columns an element should span across
+column-widthSpecifies the column width
+columnsA shorthand property for column-width and column-count
+contentUsed with the :before and :after pseudo-elements, to insert generated content
+counter-incrementIncreases or decreases the value of one or more CSS counters
+counter-resetCreates or resets one or more CSS counters
+directionSpecifies the text direction/writing direction
+displaySpecifies how a certain HTML element should be displayed
+empty-cellsSpecifies whether or not to display borders and background on empty cells in a table
+flexA shorthand property for the flex-grow, flex-shrink, and the flex-basis properties
+flex-basisSpecifies the initial length of a flexible item
+flex-directionSpecifies the direction of the flexible items
+flex-flowA shorthand property for the flex-direction and the flex-wrap properties
+flex-growSpecifies how much the item will grow relative to the rest
+flex-shrinkSpecifies how the item will shrink relative to the rest
+flex-wrapSpecifies whether the flexible items should wrap or not
+floatSpecifies whether an element should float to the left, right, or not at all
+fontA shorthand property for the font-style, font-variant, font-weight, font-size/line-height, and the font-family properties
+ font-familySpecifies the font family for text
+font-feature-settingsAllows control over advanced typographic features in OpenType fonts@font-feature-valuesAllows authors to use a common name in font-variant-alternate for feature activated differently in OpenType
+font-kerningControls the usage of the kerning information (how letters are spaced)font-language-overrideControls the usage of language-specific glyphs in a typeface
+font-sizeSpecifies the font size of text
+font-size-adjustPreserves the readability of text when font fallback occurs
+font-stretchSelects a normal, condensed, or expanded face from a font family
+font-styleSpecifies the font style for textfont-synthesisControls which missing typefaces (bold or italic) may be synthesized by the browser
+font-variantSpecifies whether or not a text should be displayed in a small-caps fontfont-variant-alternatesControls the usage of alternate glyphs associated to alternative names defined in @font-feature-values
+font-variant-capsControls the usage of alternate glyphs for capital lettersfont-variant-east-asianControls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)font-variant-ligaturesControls which ligatures and contextual forms are used in textual content of the elements it applies tofont-variant-numericControls the usage of alternate glyphs for numbers, fractions, and ordinal markersfont-variant-positionControls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font
+font-weightSpecifies the weight of a font
+gapA shorthand property for the row-gap and the column-gap properties
+gridA shorthand property for the grid-template-rows, grid-template-columns, grid-template-areas, grid-auto-rows, grid-auto-columns, and the grid-auto-flow properties
+grid-areaEither specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties
+grid-auto-columnsSpecifies a default column size
+grid-auto-flowSpecifies how auto-placed items are inserted in the grid
+grid-auto-rowsSpecifies a default row size
+grid-columnA shorthand property for the grid-column-start and the grid-column-end properties
+grid-column-endSpecifies where to end the grid item
+grid-column-gapSpecifies the size of the gap between columns
+grid-column-startSpecifies where to start the grid item
+grid-gapA shorthand property for the grid-row-gap and grid-column-gap properties
+grid-rowA shorthand property for the grid-row-start and the grid-row-end properties
+grid-row-endSpecifies where to end the grid item
+grid-row-gapSpecifies the size of the gap between rows
+grid-row-startSpecifies where to start the grid item
+grid-templateA shorthand property for the grid-template-rows, grid-template-columns and grid-areas properties
+grid-template-areasSpecifies how to display columns and rows, using named grid items
+grid-template-columnsSpecifies the size of the columns, and how many columns in a grid layout
+grid-template-rowsSpecifies the size of the rows in a grid layout
+hanging-punctuationSpecifies whether a punctuation character may be placed outside the line box
+heightSets the height of an element
+hyphensSets how to split words to improve the layout of paragraphs
+image-renderingSpecifies the type of algorithm to use for image scaling
+@importAllows you to import a style sheet into another style sheet
+inline-sizeSpecifies the size of an element in the inline direction
+insetSpecifies the distance between an element and the parent element
+inset-blockSpecifies the distance between an element and the parent element in the block direction
+inset-block-endSpecifies the distance between the end of an element and the parent element in the block direction
+inset-block-startSpecifies the distance between the start of an element and the parent element in the block direction
+inset-inlineSpecifies the distance between an element and the parent element in the inline direction
+inset-inline-endSpecifies the distance between the end of an element and the parent element in the inline direction
+inset-inline-startSpecifies the distance between the start of an element and the parent element in the inline direction
+isolationDefines whether an element must create a new stacking content
+justify-contentSpecifies the alignment between the items inside a flexible container when the items do not use all available space
+justify-itemsIs set on the grid container. Specifies the alignment of grid items in the inline direction
+justify-selfIs set on the grid item. Specifies the alignment of the grid item in the inline direction
+@keyframesSpecifies the animation code
+leftSpecifies the left position of a positioned element
+letter-spacingIncreases or decreases the space between characters in a textline-breakSpecifies how/if to break lines
+line-heightSets the line height
+list-styleSets all the properties for a list in one declaration
+list-style-imageSpecifies an image as the list-item marker
+list-style-positionSpecifies the position of the list-item markers (bullet points)
+list-style-typeSpecifies the type of list-item marker
+marginSets all the margin properties in one declaration
+margin-blockSpecifies the margin in the block direction
+margin-block-endSpecifies the margin at the end in the block direction
+margin-block-startSpecifies the margin at the start in the block direction
+margin-bottomSets the bottom margin of an element
+margin-inlineSpecifies the margin in the inline direction
+margin-inline-endSpecifies the margin at the end in the inline direction
+margin-inline-startSpecifies the margin at the start in the inline direction
+margin-leftSets the left margin of an element
+margin-rightSets the right margin of an element
+margin-topSets the top margin of an elementmaskHides parts of an element by masking or clipping an image at specific placesmask-clipSpecifies the mask areamask-compositeRepresents a compositing operation used on the current mask layer with the mask layers below it
+max-heightSets the maximum height of an element
+max-widthSets the maximum width of an element
+@mediaSets the style rules for different media types/devices/sizes
+max-block-sizeSets the maximum size of an element in the block direction
+max-inline-sizeSets the maximum size of an element in the inline direction
+min-block-sizeSets the minimum size of an element in the block direction
+min-inline-sizeSets the minimum size of an element in the inline direction
+min-heightSets the minimum height of an element
+min-widthSets the minimum width of an element
+mix-blend-modeSpecifies how an element's content should blend with its direct parent background
+object-fitSpecifies how the contents of a replaced element should be fitted to the box established by its used height and width
+object-positionSpecifies the alignment of the replaced element inside its box
+offsetIs a shorthand, and specifies how to animate an element along a path
+offset-anchorSpecifies a point on an element that is fixed to the path it is animated along
+offset-distanceSpecifies the position along a path where an animated element is placed
+offset-pathSpecifies the path an element is animated along
+offset-rotateSpecifies rotation of an element as it is animated along a pathopacitySets the opacity level for an element
+orderSets the order of the flexible item, relative to the rest
+orphansSets the minimum number of lines that must be left at the bottom of a page or column
+outlineA shorthand property for the outline-width, outline-style, and the outline-color properties
+outline-colorSets the color of an outline
+outline-offsetOffsets an outline, and draws it beyond the border edge
+outline-styleSets the style of an outline
+outline-widthSets the width of an outline
+Specifies what happens if content overflows an element's box
+overflow-anchor
+Specifies whether or not content in viewable area in a scrollable contianer should be pushed down when new content is loaded above
+overflow-wrapSpecifies whether or not the browser can break lines with long words, if they overflow the container
+overflow-xSpecifies whether or not to clip the left/right edges of the content, if it overflows the element's content area
+overflow-ySpecifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area
+overscroll-behaviorSpecifies whether to have scroll chaining or overscroll affordance in x- and y-directions
+overscroll-behavior-blockSpecifies whether to have scroll chaining or overscroll affordance in the block direction
+overscroll-behavior-inlineSpecifies whether to have scroll chaining or overscroll affordance in the inline direction
+overscroll-behavior-xSpecifies whether to have scroll chaining or overscroll affordance in x-direction
+overscroll-behavior-ySpecifies whether to have scroll chaining or overscroll affordance in y-directions
+paddingA shorthand property for all the padding-* properties
+padding-blockSpecifies the padding in the block direction
+padding-block-endSpecifies the padding at the end in the block direction
+padding-block-startSpecifies the padding at the start in the block direction
+padding-bottomSets the bottom padding of an element
+padding-inlineSpecifies the padding in the inline direction
+padding-inline-endSpecifies the padding at the end in the inline direction
+padding-inline-startSpecifies the padding at the start in the inline direction
+padding-leftSets the left padding of an element
+padding-rightSets the right padding of an element
+padding-topSets the top padding of an elementpage-break-afterSets the page-break behavior after an element
+page-break-beforeSets the page-break behavior before an element
+page-break-insideSets the page-break behavior inside an element
+paint-orderSets the order of how an SVG element or text is painted.
+perspectiveGives a 3D-positioned element some perspective
+perspective-originDefines at which position the user is looking at the 3D-positioned element
+place-contentSpecifies align-content and justify-content property values for flexbox and grid layouts
+place-itemsSpecifies align-items and justify-items property values for grid layouts
+place-selfSpecifies align-self and justify-self property values for grid layouts
+pointer-eventsDefines whether or not an element reacts to pointer events
+positionSpecifies the type of positioning method used for an element (static, relative, absolute or fixed)
+quotesSets the type of quotation marks for embedded quotations
+resizeDefines if (and how) an element is resizable by the user
+rightSpecifies the right position of a positioned element
+rotateSpecifies the rotation of an element
+row-gapSpecifies the gap between the grid rows
+scaleSpecifies the size of an element by scaling up or down
+scroll-behaviorSpecifies whether to smoothly animate the scroll position in a scrollable box, instead of a straight jump
+scroll-marginSpecifies the margin between the snap position and the container
+scroll-margin-blockSpecifies the margin between the snap position and the container in the block direction
+scroll-margin-block-endSpecifies the end margin between the snap position and the container in the block direction
+scroll-margin-block-startSpecifies the start margin between the snap position and the container in the block direction
+scroll-margin-bottomSpecifies the margin between the snap position on the bottom side and the container
+scroll-margin-inlineSpecifies the margin between the snap position and the container in the inline direction
+scroll-margin-inline-endSpecifies the end margin between the snap position and the container in the inline direction
+scroll-margin-inline-startSpecifies the start margin between the snap position and the container in the inline direction
+scroll-margin-leftSpecifies the margin between the snap position on the left side and the container
+scroll-margin-rightSpecifies the margin between the snap position on the right side and the container
+scroll-margin-topSpecifies the margin between the snap position on the top side and the container
+scroll-paddingSpecifies the distance from the container to the snap position on the child elements
+scroll-padding-blockSpecifies the distance in block direction from the container to the snap position on the child elements
+scroll-padding-block-endSpecifies the distance in block direction from the end of the container to the snap position on the child elements
+scroll-padding-block-startSpecifies the distance in block direction from the start of the container to the snap position on the child elements
+scroll-padding-bottomSpecifies the distance from the bottom of the container to the snap position on the child elements
+scroll-padding-inlineSpecifies the distance in inline direction from the container to the snap position on the child elements
+scroll-padding-inline-endSpecifies the distance in inline direction from the end of the container to the snap position on the child elements
+scroll-padding-inline-startSpecifies the distance in inline direction from the start of the container to the snap position on the child elements
+scroll-padding-leftSpecifies the distance from the left side of the container to the snap position on the child elements
+scroll-padding-rightSpecifies the distance from the right side of the container to the snap position on the child elements
+scroll-padding-topSpecifies the distance from the top of the container to the snap position on the child elements
+scroll-snap-alignSpecifies where to position elements when the user stops scrolling
+scroll-snap-stopSpecifies scroll behaviour after fast swipe on trackpad or touch screen
+scroll-snap-typeSpecifies how snap behaviour should be when scrolling
+tab-sizeSpecifies the width of a tab character
+table-layoutDefines the algorithm used to lay out table cells, rows, and columns
+text-alignSpecifies the horizontal alignment of text
+text-align-lastDescribes how the last line of a block or a line right before a forced line break is aligned when text-align is "justify"text-combine-uprightSpecifies the combination of multiple characters into the space of a single character
+text-decorationSpecifies the decoration added to text
+text-decoration-colorSpecifies the color of the text-decoration
+text-decoration-lineSpecifies the type of line in a text-decoration
+text-decoration-styleSpecifies the style of the line in a text decoration
+text-decoration-thicknessSpecifies the thickness of the decoration line
+text-emphasisApplies emphasis marks to text
+text-indentSpecifies the indentation of the first line in a text-block
+text-justifySpecifies the justification method used when text-align is "justify"
+text-orientationDefines the orientation of characters in a line
+text-overflowSpecifies what should happen when text overflows the containing element
+text-shadowAdds shadow to text
+text-transformControls the capitalization of texttext-underline-positionSpecifies the position of the underline which is set using the text-decoration property
+topSpecifies the top position of a positioned element
+transformApplies a 2D or 3D transformation to an element
+transform-originAllows you to change the position on transformed elements
+transform-styleSpecifies how nested elements are rendered in 3D space
+transitionA shorthand property for all the transition-* properties
+transition-delaySpecifies when the transition effect will start
+transition-durationSpecifies how many seconds or milliseconds a transition effect takes to complete
+transition-propertySpecifies the name of the CSS property the transition effect is for
+transition-timing-functionSpecifies the speed curve of the transition effect
+translateSpecifies the position of an element
+unicode-bidiUsed together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document
+user-selectSpecifies whether the text of an element can be selected
+vertical-alignSets the vertical alignment of an element
+visibilitySpecifies whether or not an element is visible
+white-spaceSpecifies how white-space inside an element is handled
+widowsSets the minimum number of lines that must be left at the top of a page or column
+widthSets the width of an element
+word-breakSpecifies how words should break when reaching the end of a line
+word-spacingIncreases or decreases the space between words in a text
+word-wrapAllows long, unbreakable words to be broken and wrap to the next line
+writing-modeSpecifies whether lines of text are laid out horizontally or vertically
+ 
